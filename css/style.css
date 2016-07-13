@@ -1,1 +1,4 @@
-h1 { color: cadetblue; }
+main {background-color: cadetblue;}
+h1 { background-color: greenyellow; text-align: center; }
+h2 {background-color: burlywood; text-align: center; }
+p {background-color: aquamarine; text-align: center; font-size: larger;}

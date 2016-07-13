@@ -20,7 +20,7 @@
 					<img src="images/gofundme.png" alt="Go Fund Me" />
 					<a href="https://gofundme.com" target="_blank"> Go Fund Me </a>
 					<p>Crowdfunding is to connect those in financial need with those that want to help, even with micro donations. People have obtained help to pay for medical bills, school tuition and personal projects among much other things.</p>
-				<h2> These is my portfolio of projects:</h2>
+				<h2> This is my portfolio of projects:</h2>
 				<h2> This is what makes me happy:</h2>
 		</main>
 		</body>
