@@ -24,7 +24,7 @@
 
 						<div class="img">
 							<a href="https://timebanks.org" target="blank">
-								<img src="images/timebanks.jpg" alt="Time Banks" />
+								<img src="images/timebanks.jpg" alt="Time-Banks" />
 							</a>
 						</div>
 						<div class="desc">
